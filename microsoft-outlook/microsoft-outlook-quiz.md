@@ -19,7 +19,7 @@
 - [ ] Click Reply All.
 
 #### 4. You are running low on Outlook storage space. How might you address this problem?
-- [ ]  all of these answers
+- [x]  all of these answers
 - [ ] Archive messages you are done with.
 - [ ] Save and then remove large attachments from messages
 - [ ] Sort by size and then delete large messages.
@@ -36,7 +36,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] A,B,and C
 
 #### 6. What address box should you use if you want to hide message recipients from each other?
-- [ ] Bcc
+- [x] Bcc
 - [ ] to
 - [ ] cc
 - [ ] From
@@ -45,13 +45,13 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] to Diane and Joey
 - [ ] to Diane and bcc Joey
 - [ ] to Joey and bcc Diane
-- [ ] to Diane and cc Joey
+- [x] to Diane and cc Joey
 
 #### 8. Which choice is not an attachment?
 - [ ] a PDF document included with an email
 - [ ] a Word document included with an email
 - [ ] (Â) a calendar item included with an email
-- [ ] a hyperlink included in an email
+- [x] a hyperlink included in an email
 
 #### 9. You can use a___to indicate that a message requires further action and a__to organize the message.
 - [ ] folder; category
@@ -74,7 +74,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 #### 12. What appears on your screen whenever a new email arrives?
 - [ ] an emoji
 - [ ] an alert
-- [ ] a notice
+- [x] a notice
 - [ ] a bell icon
 
 #### 13. Some of your inbox folder are used for annual or biannual projects, while others are used for work that is not based on projects. The same is true for your calendars. How can you use archiving to increase your efficiency and minimize the size of your mailbox?
@@ -93,7 +93,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 #### 15. You have sent several emails to a customer and have not received a response. What option do you set to know whether the customer receives your messages?
 
-- [ ] Delivery receipt
+- [x] Delivery receipt
 - [ ] All of these answers
 - [ ] Read receipt
 - [ ] Tracking
@@ -121,7 +121,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 #### 19. There are two types of Outlook rules. One is server-based rules, which run for Exchange Server. What are the other kind, which in part or in whole cannot run on Exchange Server, and when do the execute?
 
-- [ ] client-only rules; when Outlook is running
+- [x] client-only rules; when Outlook is running
 - [ ] Outlook-based rules; when Outlook is running
 - [ ] None of these answers
 - [ ] Outlook-only rules; when Outlook is offline
@@ -138,14 +138,14 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] Sort the messages by size then filter by Has: Attachments
 - [ ] Sort the messages by sender
 - [ ] Sort the messages by Has: Attachments and then filter by Is: Large
-- [ ] Sort the messages by Has: Attachments and then by size
+- [x] Sort the messages by Has: Attachments and then by size
 
 #### 22. What is not a built-in search filter for message folder?
 
 - [ ] Has Attachments
 - [ ] Sent to me as Bcc
 - [ ] Categorized
-- [ ] Not sent directly to me
+- [x] Not sent directly to me
 
 #### 23. You created a meeting for next Friday at 1 PM, and several invitees have accepted. How do you change only your version of the meeting to 12 PM to allow time to setup?
 
@@ -156,7 +156,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 #### 24. What is the fastest way to find a message sent by Bonnie Bradford that includes an attachment?
 
-- [ ] Search based on sender then filter by Has Attachments
+- [x] Search based on sender then filter by Has Attachments
 - [ ] Search for "has:attachments" and then filter by Bonnie Bradford
 - [ ] All of these answers
 - [ ] Enter "Bonnie Bradford attachment" in the search box
@@ -172,7 +172,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 
 - [ ] Search the autocomplete library, select the incorrect suggestion, and then click Delete
 - [ ] Close Outlook, reboot your computer, and restart Outlook
-- [ ] Wait until the suggestion appears again, then highlight it and press the Delete key
+- [x] Wait until the suggestion appears again, then highlight it and press the Delete key
 - [ ] Delete the corresponding contact
 
 #### 27. What is the key difference between an appointment and a meeting?
@@ -185,7 +185,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 #### 28. When adding an email account to Outlook, why might you need to enter the server settings manually?
 
 - [ ] You did not write down your password
-- [ ] Outlook cannot detect the proper settings for your server automatically
+- [x] Outlook cannot detect the proper settings for your server automatically
 - [ ] You do not have an email server
 - [ ] The server is not on the list of Microsoft approved servers
 
@@ -201,7 +201,7 @@ C. Read receipts are expensive, so some organizations turn them off.
 - [ ] Your colleague's name is highlighted in the message
 - [ ] The colleague is automatically added to the To line
 - [ ] @ appears next to the message in your colleague's Inbox
-- [ ] @ appears next to the email in your Sent items folder (Sent folder in Outlook for Mac)
+- [x] @ appears next to the email in your Sent items folder (Sent folder in Outlook for Mac)
 
 #### 31. You have received an email messages with detailed notes that you need to analyze before responding, so you want to save it as a task. What is the best way to create a new task that includes the notes in the body of the task?
 
@@ -233,7 +233,7 @@ C. Some people have already accepted, so you must cancel this meeting and create
 #### 34. What permission allows your delegates to read, create, change, and delete items that they create, but not items that you created?
 
 - [ ] Reader
-- [ ] Author
+- [x] Author
 - [ ] Reviewer
 - [ ] Editor
 
@@ -254,7 +254,7 @@ C. Some people have already accepted, so you must cancel this meeting and create
 #### 37. When accepting a meeting invitation, what happens if you click "Do not send a response"?
 
 - [ ] Outlook will send an email to the meeting organizer on your behalf
-- [ ] The meeting organizer will not receive an email with your response, and your response will be recorded
+- [x] The meeting organizer will not receive an email with your response, and your response will be recorded
 - [ ] The meeting organizer will not receive an email with your response, and your response will not be recorded
 - [ ] None of these answers
 
@@ -302,7 +302,7 @@ C. Because the unread messages count for the Inbox folder will not include Proje
 D. Because you cannot create a search folder for a subfolder
 ```
 
-- [ ] A and C
+- [x] A and C
 - [ ] A, C, and D
 - [ ] A and B
 - [ ] B and D
